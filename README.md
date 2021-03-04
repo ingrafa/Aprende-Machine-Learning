@@ -40,5 +40,5 @@ Artículos completos en el Blog:
 [![Aprende Machine Learning en Español](https://www.aprendemachinelearning.com/wp-content/uploads/2020/12/el-libro.png?w=360)](https://leanpub.com/aprendeml/) <br>
 Disponible el libro "Aprende Machine Learning en Español" en [formato digital](https://leanpub.com/aprendeml/) ó en papel [tapa blanda en Amazon](https://amzn.to/2LLeiGf) -debes buscar la tienda de tu páis-
 
-@jbagnato
+@jingrafa
 # Red-Neuronal
