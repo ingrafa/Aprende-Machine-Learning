@@ -1,5 +1,5 @@
 # Aprende Machine Learning
-Código ejemplo para prácticas de [www.AprendeMachineLearning.com](https://www.aprendemachinelearning.com/?utm_source=github&utm_medium=readme&utm_campaign=repositorio) Algoritmos y source code en Python (Jupyter Notebooks).
+ Algoritmos y source code en Python (Jupyter Notebooks).
 
 Artículos completos en el Blog:
 
@@ -40,5 +40,6 @@ Artículos completos en el Blog:
 [![Aprende Machine Learning en Español](https://www.aprendemachinelearning.com/wp-content/uploads/2020/12/el-libro.png?w=360)](https://leanpub.com/aprendeml/) <br>
 Disponible el libro "Aprende Machine Learning en Español" en [formato digital](https://leanpub.com/aprendeml/) ó en papel [tapa blanda en Amazon](https://amzn.to/2LLeiGf) -debes buscar la tienda de tu páis-
 
-@jingrafa
-# Red-Neuronal
+@ingrafa
+# Aprende Machine Learning
+
